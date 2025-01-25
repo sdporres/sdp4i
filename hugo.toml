@@ -1,0 +1,18 @@
+baseURL = "https://cshugo.mansoorbarri.com"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = " " 
+    description = ""
+    favicon = ""
+    message = "You know Sergio?" 
+    release = "February 14, 2025"
+    background = "" 
+
+socialIcons = [
+] 
+
+[params.twitter]
+	enable = false 
+	username = "mansoorbarri"
