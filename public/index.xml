@@ -121,6 +121,13 @@
       <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;We will show some content that is supported:&lt;/p&gt;&#xA;&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;&#xA;&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# Heading 1&#xD;&#xA;## Heading 2&#xD;&#xA;### Heading 3&#xD;&#xA;#### Heading 4&#xD;&#xA;##### Heading 5&#xD;&#xA;###### Heading 6&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;h3 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;*This text will be italic*&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;_This will also be italic_&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;**This text will be bold**&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;__This will also be bold__&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;_You **can** combine them_&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;This text will be italic&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Poste #3</title>
+      <link>http://localhost:1313/experience/job-3.fr/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3.fr/</guid>
+      <description>&lt;h3 id=&#34;réparer-le-monde-un-octet-à-la-fois&#34;&gt;Réparer le monde, un octet à la fois&lt;/h3&gt;&#xA;&lt;p&gt;Prise de contrôle hostile - qui est le patron maintenant !&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Trabajo #3</title>
       <link>http://localhost:1313/experience/job-3.es-copy/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
@@ -133,6 +140,13 @@
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/job-2/</guid>
       <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poste #2</title>
+      <link>http://localhost:1313/experience/job-2.fr/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2.fr/</guid>
+      <description>&lt;h3 id=&#34;réparer-le-monde-un-octet-à-la-fois&#34;&gt;Réparer le monde, un octet à la fois&lt;/h3&gt;&#xA;&lt;p&gt;Poursuivant la quête.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Job #1</title>
